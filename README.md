@@ -35,11 +35,12 @@ pip install -r requirements.txt
 
 1. Visit the [Gmail API page](https://console.cloud.google.com/apis/library/gmail.googleapis.com)
 2. Click **Enable** to activate the Gmail API
-3. Navigate to **Credentials** -> **Create Credentials** -> **OAuth client ID**
-4. Select **Desktop app** as the application type
-5. Download the JSON credentials file
-6. Rename it to `credentials.json`
-7. Place it in the project root directory
+3. Enable Scopes
+4. Navigate to **Credentials** -> **Create Credentials** -> **OAuth client ID**
+5. Select **Desktop app** as the application type
+6. Download the JSON credentials file
+7. Rename it to `credentials.json`
+8. Place it in the project root directory
 
 ### Step 2: First Run Authentication
 
