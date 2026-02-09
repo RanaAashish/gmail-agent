@@ -1,4 +1,4 @@
-# Gmail Inbox Cleaner Agent
+# Gmail Inbox Cleaner Tool
 
 An interactive tool to clean up your Gmail inbox efficiently and safely.
 
